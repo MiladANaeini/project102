@@ -1,84 +1,125 @@
 {
-    "movies":[
-    {
+    "movies": [
+      {
         "title": "The Shawshank Redemption",
-        "year": 1994
-    },
-    {
+        "year": 1994,
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "boxOffice": 28341469
+      },
+      {
         "title": "The Godfather",
-        "year": 1972
-    },
-    {
+        "year": 1972,
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "boxOffice": 134966411
+      },
+      {
         "title": "The Dark Knight",
-        "year": 2008
-    },
-    {
+        "year": 2008,
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "boxOffice": 1004558444
+      },
+      {
         "title": "Pulp Fiction",
-        "year": 1994
-    },
-    {
+        "year": 1994,
+        "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "boxOffice": 213928762
+      },
+      {
         "title": "Forrest Gump",
-        "year": 1994
-    },
-    {
+        "year": 1994,
+        "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "boxOffice": 678200000
+      },
+      {
         "title": "Inception",
-        "year": 2010
-    },
-    {
+        "year": 2010,
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "boxOffice": 836800000
+      },
+      {
         "title": "Fight Club",
-        "year": 1999
-    },
-    {
+        "year": 1999,
+        "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "boxOffice": 101200000
+      },
+      {
         "title": "The Matrix",
-        "year": 1999
-    },
-    {
+        "year": 1999,
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "boxOffice": 466364000
+      },
+      {
         "title": "Goodfellas",
-        "year": 1990
-    },
-    {
+        "year": 1990,
+        "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+        "boxOffice": 46873000
+      },
+      {
         "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "year": 2001
-    },
-    {
+        "year": 2001,
+        "actors": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
+        "boxOffice": 871530324
+      },
+      {
         "title": "Star Wars: Episode IV - A New Hope",
-        "year": 1977
-    },
-    {
+        "year": 1977,
+        "actors": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+        "boxOffice": 775398007
+      },
+      {
         "title": "The Silence of the Lambs",
-        "year": 1991
-    },
-    {
+        "year": 1991,
+        "actors": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+        "boxOffice": 272742922
+      },
+      {
         "title": "Schindler's List",
-        "year": 1993
-    },
-    {
+        "year": 1993,
+        "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "boxOffice": 322161245
+      },
+      {
         "title": "Interstellar",
-        "year": 2014
-    },
-    {
+        "year": 2014,
+        "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "boxOffice": 677471339
+      },
+      {
         "title": "Saving Private Ryan",
-        "year": 1998
-    },
-    {
+        "year": 1998,
+        "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+        "boxOffice": 482349603
+      },
+      {
         "title": "The Green Mile",
-        "year": 1999
-    },
-    {
+        "year": 1999,
+        "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "boxOffice": 286801374
+      },
+      {
         "title": "Gladiator",
-        "year": 2000
-    },
-    {
+        "year": 2000,
+        "actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "boxOffice": 465380000
+      },
+      {
         "title": "The Lion King",
-        "year": 1994
-    },
-    {
+        "year": 1994,
+        "actors": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+        "boxOffice": 968500000
+      },
+      {
         "title": "Jurassic Park",
-        "year": 1993
-    },
-    {
+        "year": 1993,
+        "actors": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+        "boxOffice": 1030400000
+      },
+      {
         "title": "Braveheart",
-        "year": 1995
-    }
-]
-}
+        "year": 1995,
+        "actors": ["Mel Gibson", "Sophie Marceau", "Patrick McGoohan"],
+        "boxOffice": 213216216
+      }
+    ]
+  }
+  
